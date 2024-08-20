@@ -1,2 +1,18 @@
-# password_checker_generator
-A Python-based application that checks the strength of passwords and generates strong, random passwords. Built using Tkinter for the GUI and zxcvbn for password strength estimation. This tool helps users create secure passwords and provides feedback to improve password security.
+# Password Strength Checker and Generator
+
+A simple application built with Python and Tkinter that allows users to check the strength of their passwords and generate strong, random passwords.
+
+## Features
+
+- **Password Strength Checker:** Enter a password to get feedback on its strength and suggestions for improvement.
+- **Strong Password Generator:** Generate a strong password with a mix of letters, numbers, and special characters.
+
+## Requirements
+
+- Python 3.11.6
+- Tkinter
+- zxcvbn
+
+## Installation
+
+1. Clone the repository:
