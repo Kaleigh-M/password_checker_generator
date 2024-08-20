@@ -16,3 +16,9 @@ A simple application built with Python and Tkinter that allows users to check th
 ## Installation
 
 1. Clone the repository:
+
+2. Navigate to the project directory:
+
+3. Install the dependencies:
+
+4. Run the application:
